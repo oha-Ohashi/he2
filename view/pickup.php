@@ -10,7 +10,7 @@
         echo "<td> <a href='". $url . "'>"; 
         echo "Go" ;
         echo "</a></td> ";
-        echo "<td> <a href='". $url ."' download>"; //同じオリジンのときのみダウンロード有効
+        echo "<td> <a href='". $raw."' download>"; //同じオリジンのときのみダウンロード有効
         echo "Download" ;
         echo "</a> </td> ";
         echo "</tr>";
