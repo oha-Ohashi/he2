@@ -1,0 +1,71 @@
+{
+    "title": "Default",
+    "contents": [
+        {
+            "cat_name": "Media",
+            "subjects": [
+                {
+                    "name": "YouTube",
+                    "link": "https://www.youtube.com/",
+                    "color": "#FF0000"
+                },
+                {
+                    "name": "NetFlix",
+                    "link": "https://www.netflix.com/browse",
+                    "color": "#E50914"
+                },
+                {
+                    "name": "Twitter",
+                    "link": "https://twitter.com/home",
+                    "color": "#1DA1F2"
+                },
+                {
+                    "name": "FaceBook",
+                    "link": "https://www.facebook.com/",
+                    "color": "#1877F2"
+                }
+            ]
+        },
+        {
+            "cat_name": "Cloud",
+            "subjects": [
+                {
+                    "name": "My Drive",
+                    "link": "https://drive.google.com/drive/my-drive",
+                    "color": "#4766FF"
+                },
+                {
+                    "name": "Sub Foler 1",
+                    "link": "https://drive.google.com/drive/my-drive",
+                    "color": "#843BFF"
+                },
+                {
+                    "name": "Gmaill",
+                    "link": "https://mail.google.com/mail/u/0/#inbox",
+                    "color": "#E82A00"
+                },
+                
+                {
+                    "name": "GitHub",
+                    "link": "https://github.com/",
+                    "color": "#eea555"
+                }
+            ]
+        },
+        {
+            "cat_name": "OPU",
+            "subjects": [
+                {
+                    "name": "Portal Top",
+                    "link": "https://portal.osakafu-u.ac.jp/students/SitePages/default.aspx",
+                    "color": "#0072c6"
+                },
+                {
+                    "name": "Moodle",
+                    "link": "https://lss.osakafu-u.ac.jp/",
+                    "color": "#D6BC1A"
+                }
+            ]
+        }
+    ]
+}
