@@ -1,6 +1,6 @@
 # でかブックマーク
 
-### [公開場所](https://ketcha.xyz/extensions/he2/view/)
+まずはこちらをチェック: ### [公開場所](https://ketcha.xyz/extensions/he2/view/)
 
 
 ## 特徴
