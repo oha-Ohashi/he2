@@ -47,6 +47,9 @@ function output_raw_json($url){
     <div class="jumbotron">
         <h2 class="" id="bkm_title">Top Page</h2>
         <!--<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>-->
+        <button type="button" class="btn btn-info" href="https://github.com/oha-Ohashi/he2">
+            GitHub Repository
+        </button>
     </div>
 
     <div class="container">

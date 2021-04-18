@@ -47,7 +47,7 @@ function output_raw_json($url){
 <body>
     <div class="jumbotron">
         <h2 class="" id="bkm_title"></h2>
-        <a class="" href="../view/">Top</a>
+        <button type="button" class="btn btn-info" href="../view/">Top</button>
         <!--<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>-->
     </div>
 
