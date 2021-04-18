@@ -17,8 +17,30 @@ JSONの投稿により、あなた専用のブックマーク画面を生成し�
 
 ## JSONの書き方
 
-```default.json
-uuuuaaううううう
+```
+{
+    "title": "Default",
+    "contents": [
+        {
+            "cat_name": "Media",
+            "subjects": [
+                {
+                    "name": "YouTube",
+                    "link": "https://www.youtube.com/",
+                    "color": "#FF0000"
+                },
+                {
+                    "name": "NetFlix",
+                    "link": "https://www.netflix.com/browse",
+                    "color": "#E50914"
+                }
+            ]
+        },
+        {
+          ......
+        }
+    ]
+}
 ```
 
 # ワンタッチでアクセス
