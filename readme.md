@@ -1,6 +1,6 @@
 # でかブックマーク
 
-[公開場所](https://ketcha.xyz/extensions/he2/hej/?src=https://ketcha.xyz/extensions/he2/json/default.json)
+### [公開場所](https://ketcha.xyz/extensions/he2/view/)
 
 
 ## 特徴
