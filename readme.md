@@ -21,7 +21,7 @@ JSONの投稿により、あなた専用のブックマーク画面を生成し�
 するとそのファイルが表に追加され、`Go`からあなた専用のブックマーク画面が利用可能になります。
 
 ## JSONの書き方
-
+JSONファイルを編集する際は[VScode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) のような構文チェック機能付きテキストエディターの仕様することを強く推奨します。
 ```
 {
     "title": "Default",
