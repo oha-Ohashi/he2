@@ -14,6 +14,7 @@ JSONの投稿により、あなた専用のブックマーク画面を生成し�
 ## 全体像
 - [**Top Page**](https://ketcha.xyz/extensions/he2/view/) `view/` 
 - 個別のブックマークページ `hej/?src="......"`
+
 の2つがあります。
 
 **Top Page** にて、`default.json`をダウンロードします。これをご自身のPC上で編集し、再び **Top Page**にアップロードします。
